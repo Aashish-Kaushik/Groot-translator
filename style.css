@@ -1,0 +1,58 @@
+.icon{
+    width: 2rem;
+
+
+}
+.footer{
+    background-color: red;
+    padding: 1rem 2rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+}
+.icon{
+    width: 2.5rem;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    display: block;
+    margin: 20px;
+    border-radius: 2px;
+    transition: all 300ms;
+    display: inline-block;
+    border-radius: 50%;
+    border: 1px solid rgba(255,255,255,.54);
+  }
+  .icon {
+    color: rgba(255,255,255,.54);
+    box-shadow: 0 0 1px rgba(255,255,255,0.54);
+  }
+  .list-item-inline{
+      display: inline-block;
+   background-color: red;
+  padding: 1rem 2rem;
+  text-align: center;
+  color: white;
+  border-top-right-radius: 1rem;
+
+  }
+  .navigation-container .nav-brand {
+    font-family: "Contrail One", cursive;
+    font-weight: bold;
+    font-size: 1.6rem;
+  }
+  .navigation-container {
+    background-color: red;
+    color:white;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+  }
+  .btns{
+      color: blueviolet;
+      width: 5rem;
+  }
+  .text{font-family: "Contrail One", cursive;
+    font-weight: bold;
+    font-size: 1.6rem;
+
+  }
