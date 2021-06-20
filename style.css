@@ -50,6 +50,18 @@
   .btns{
       color: blueviolet;
       width: 5rem;
+      font-family: 'Indie Flower', cursive;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    margin: 2rem;
+    border-radius: 1ch;
+    width: 20%;
+    border-color: rgb(218, 45, 22);
+    border-width: 0.2rem;
+    border-style: outset;
+    font-weight: bold;
+    font-size: 20px;
+}
   }
   .text{font-family: "Contrail One", cursive;
     font-weight: bold;
@@ -62,4 +74,3 @@
   .block{
       text-align: center;
   }
-  
